@@ -41,9 +41,9 @@ memilih hewan.
 
 
 ## Teknologi yang Digunakan 
-• Framework: Flutter (Dart) 
-• Backend & Database: Supabase (PostgreSQL) 
-• State Management: Riverpod 
+- Framework: Flutter (Dart) 
+- Backend & Database: Supabase (PostgreSQL) 
+- State Management: Riverpod 
 
 
 
