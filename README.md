@@ -22,9 +22,9 @@ Algoritma pencarian yang responsif memudahkan navigasi di dalam koleksi hewan ya
 terus bertambah. 
 2.  Integrasi API Supabase Menghubungkan aplikasi dengan backend Supabase yang handal 
 untuk: 
-o Mengambil daftar hewan secara dinamis. 
-o Manajemen aset gambar yang lebih terstruktur. 
-o Skalabilitas data yang lebih mudah di masa depan. 
+- Mengambil daftar hewan secara dinamis. 
+- Manajemen aset gambar yang lebih terstruktur. 
+- Skalabilitas data yang lebih mudah di masa depan. 
 3.  Visualisasi 3D Cartoon Style Setiap hewan ditampilkan dalam format seni kartun 3D 
 berkualitas tinggi, memberikan tampilan yang bersih, modern, dan sangat menarik bagi 
 pengguna dari segala usia. 
@@ -35,8 +35,8 @@ perilaku unik, dan fakta menarik.
 kategori (misalnya: Karnivora, Herbivora, Unggas, Mamalia) untuk pengalaman belajar 
 yang lebih terstruktur. 
 6. UI/UX yang Imersif 
-o Splash Screen baru dengan logo AnimalDex 3D. 
-o Tampilan Detail View dengan animasi transisi yang halus (Hero Animation) saat 
+- Splash Screen baru dengan logo AnimalDex 3D. 
+- Tampilan Detail View dengan animasi transisi yang halus (Hero Animation) saat 
 memilih hewan. 
 
 
