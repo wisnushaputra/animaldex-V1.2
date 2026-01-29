@@ -47,6 +47,10 @@ memilih hewan.
 
 
 
+## Referensi
+
+- [Pokedex](https://github.com/skydoves/Pokedex.git)
+
 
 ## Getting Started
 
